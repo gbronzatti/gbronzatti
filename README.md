@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá eu sou o Gustavo👋
 
 <p align="left">
   Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
