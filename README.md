@@ -36,7 +36,7 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,aws,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,aws,html,css,js,azure)](https://skillicons.dev)
 
 ### 🚀 Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
