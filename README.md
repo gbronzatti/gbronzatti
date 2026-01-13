@@ -8,7 +8,7 @@
 ## Sobre mim
 
 - 🎓 Cursando Ciência da Computação na Universidade Paulista.
-- 📚 Estudando Python, SQL, Machine Learning, e BI.
+- 📚 Estudando Python, SQL, Machine Learning, BI e Azure DevOps
 - 🌍 Explorando novas tecnologias e soluções baseadas em dados.
 
 ---
