@@ -77,6 +77,6 @@
 
 <div align="center">
   
-  [![Gustavo Zani Bronzatti github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ka-rodrigues&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Gustavo Zani Bronzatti github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gbronzatti&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=d3d3d3&descAlign=100&descAlignY=0"/> 
