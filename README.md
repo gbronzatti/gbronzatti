@@ -1,7 +1,9 @@
-## Olá, Eu sou o Gustavo👋
+# 👨🏻‍💻Gustavo Bronzatti 
+
+## Cientista da Computação em formação
 
 <p align="left">
-  Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
+  Me chamo Gustavo Zani Bronzatti, tenho 20 anos e sou Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
   Tenho focado meus estudos em <strong>Python</strong>, além de aprofundar meus conhecimentos em <strong>SQL e Machine Learning</strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada.
 </p>
 
