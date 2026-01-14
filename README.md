@@ -1,6 +1,6 @@
 # 👨🏻‍💻Gustavo Bronzatti 
 
-## Cientista da Computação em formação
+**`Cientista da Computação em formação´**
 
 <p align="left">
   Me chamo Gustavo Zani Bronzatti, tenho 20 anos e sou Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
