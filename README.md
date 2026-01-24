@@ -4,13 +4,13 @@
 
 <p align="left">
   Me chamo Gustavo Zani Bronzatti, tenho 20 anos e sou Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
-  Tenho focado meus estudos em <strong>Python</strong>, além de aprofundar meus conhecimentos em <strong>SQL e Machine Learning</strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada.
+  Tenho focado meus estudos em <strong>Java</strong>, além de aprofundar meus conhecimentos em <strong>SQL e Machine Learning</strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada.
 </p>
 
 ## Sobre mim
 
 - 🎓 Cursando Ciência da Computação na Universidade Paulista.
-- 📚 Estudando Python, SQL, Machine Learning, BI e Azure DevOps
+- 📚 Estudando Java, SQL, Machine Learning, BI e Azure DevOps
 - 🌍 Explorando novas tecnologias e soluções baseadas em dados.
 
 ---
@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Atualmente, tenho me aprofundado em <strong>Python</strong> e venho explorando tecnologias como <strong>Power BI</strong>, <strong>AWS</strong>, e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
+  Atualmente, tenho me aprofundado em <strong>Java</strong> e venho explorando tecnologias como <strong>Azure</strong> e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
