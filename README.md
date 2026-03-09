@@ -2,16 +2,21 @@
 
 **Cientista da computação em formação**
 
-<p align="left">
-  Me chamo Gustavo Zani Bronzatti, tenho 20 anos e sou Cientista da Computação em formação, em busca de uma oportunidade para crescer e me desenvolver na área de tecnologia. <br>
-  Tenho focado meus estudos em <strong>Java</strong>, além de aprofundar meus conhecimentos em <strong>SQL e Machine Learning</strong>, com o objetivo de aplicar cada aprendizado em projetos práticos ao longo da minha jornada.
+<p align="left"> Me chamo Gustavo Zani Bronzatti, tenho 20 anos e sou estudante de <strong>Ciência da Computação</strong>, focado no desenvolvimento de soluções tecnológicas voltadas à <strong>automação de processos e desenvolvimento Low-Code</strong>.<br>
+
+Atualmente estou me aprofundando no ecossistema <strong>Microsoft Power Platform</strong>, explorando a criação de aplicações corporativas, automações de fluxo e integração de sistemas utilizando tecnologias como <strong>Power Apps, Power Automate, Dynamics 365 e SharePoint</strong>.<br>
+
+Meu objetivo é aplicar tecnologia para transformar processos manuais em soluções digitais mais eficientes dentro das organizações.
+
 </p>
 
 ## Sobre mim
 
-- 🎓 Cursando Ciência da Computação na Universidade Paulista.
-- 📚 Estudando Java, SQL, Machine Learning, BI e Azure DevOps
-- 🌍 Explorando novas tecnologias e soluções baseadas em dados.
+- 🎓 Estudante de Ciência da Computação – Universidade Paulista
+- ⚙️ Aprofundando conhecimentos em Low-Code Development
+- ☁️ Foco no ecossistema Microsoft Power Platform
+- 📊 Interesse em automação de processos e soluções empresariais
+- 🔎 Explorando integrações entre sistemas e dados corporativos
 
 ---
 <br>
@@ -38,21 +43,98 @@
 
 ## Tecnologias e linguagens 💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,aws,html,css,js,azure)](https://skillicons.dev)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/><img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-### 🚀 Bancos de Dados
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
-
-### 🛠️ Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,eclipse)](https://skillicons.dev)
-
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" 
+    />
+<img 
+    align="left" 
+    alt="Power Automate" 
+    title="Power Automate"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=0000000" 
+    />
+<img 
+    align="left" 
+    alt="Power Apps" 
+    title="Power Apps"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" 
+    />
+<img 
+    align="left" 
+    alt="Dynamics 365" 
+    title="Dynamics 365"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=YmsY6xkp6wCZ&format=png&color=000000" 
+    />
+<img 
+    align="left" 
+    alt="SharePoint" 
+    title="SharePoint"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=bVAf0kiXtJhO&format=png&color=000000" 
+    />
+<img 
+    align="left" 
+    alt="Dataverse" 
+    title="Dataverse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.pngall.com/wp-content/uploads/17/Dataverse-Logo-Digital-Emblem-PNG.png" 
+    />
+          
+<br/>
+<br/>
+<br/>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  Atualmente, tenho me aprofundado em <strong>Java</strong> e venho explorando tecnologias como <strong>Azure</strong> e <strong>MySQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais. <br><br>
-  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+<p align="left"> Estou focado em aprofundar meus conhecimentos em <strong>Low-Code Development</strong> utilizando o ecossistema Microsoft.<br><br>
+
+Principais áreas de estudo:
+
+• Desenvolvimento de aplicações com <strong>Power Apps</strong>
+• Automação de processos com <strong>Power Automate</strong>
+• Gestão de dados com <strong>SharePoint e Dataverse</strong>
+• Soluções empresariais com <strong>Dynamics 365</strong>
+• Integração de sistemas no ambiente <strong>Microsoft Azure</strong>
+
+<br>
+Acredito que tecnologia deve simplificar processos e gerar eficiência, e por isso busco sempre aplicar meus conhecimentos em projetos práticos 🚀
 </p>
 
 
